@@ -36,7 +36,7 @@ jobs:
           mkdir -p _site
 
           # Convert README.md to HTML with a simple template
-          pandoc .github/profile/README.md \
+          pandoc profile/README.md \
             --from gfm \
             --to html \
             --standalone \
