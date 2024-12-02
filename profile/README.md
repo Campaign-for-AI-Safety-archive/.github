@@ -27,4 +27,4 @@ Please get involved. This problem will not go away by itself. Your help is neede
 * Get involved with [PauseAI](https://pauseai.info/)
 * [Donate to PauseAI](https://pauseai.info/donate)
 * [Donate to StopAI](https://www.stopai.info/donate)
-
+* [Apply to AI Safety Camp](https://www.aisafety.camp/)
