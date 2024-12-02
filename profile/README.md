@@ -8,6 +8,7 @@ _This is archive of the work of the Campaign for AI Safety. We merged with [Exis
 * [Policy proposals](https://www.existentialriskobservatory.org/policy-proposals/) on ERO website
 * [Framework of major AI harms](https://github.com/Campaign-for-AI-Safety-archive/.github/tree/main#framework-of-major-ai-harms)
 * [Email your politician](https://github.com/Campaign-for-AI-Safety-archive/.github/tree/main/email-templates#email-your-politician)
+* [Moratorium drafting competition (April–August 2023)](https://github.com/Campaign-for-AI-Safety-archive/.github/tree/main/moratorium-competition#celebrating-the-winners--law-student-ai-moratorium-treaty-competition)
 
 ## What can you do to stop AI doom?
 As long as companies are allowed to carry on unregulated and unmonitored development towards the misguided goal of developing overly powerful AI, the danger of human extinction is real and imminent. Therefore,
