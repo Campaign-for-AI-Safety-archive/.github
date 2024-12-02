@@ -40,7 +40,8 @@ jobs:
             --from gfm \
             --to html \
             --standalone \
-            --metadata title="Profile" \
+            --metadata title="Archive of the Campaign for AI Safety" \
+            -V pagetitle="" \
             --css "https://cdn.jsdelivr.net/npm/water.css@2/out/water.css" \
             -o _site/index.html
 
