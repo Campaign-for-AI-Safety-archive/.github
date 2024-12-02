@@ -2,7 +2,7 @@
 
 **Send a letter to your local politician today.** Many of them may think it's a niche concern. Your voice will allow your politician to raise this issue within their party, public inquiry, the parliament, and on global stage.
 
-Here is a draft letter in your language: 
+Here is a [draft letter in your language](https://github.com/Campaign-for-AI-Safety-archive/.github/tree/main/email-templates#).
 
 Find your politician here:
 --------------------------
