@@ -1,12 +1,12 @@
 # Celebrating the Winners — Law Student AI Moratorium Treaty Competition
 
-Published on 9 August 2023, last updated on 10 August 2023.
+_Published on 9 August 2023, last updated on 10 August 2023._
 
 🎉 We are thrilled to announce the winners of the [Student competition for drafting a treaty on moratorium of large-scale AI capabilities R&D](https://www.campaignforaisafety.org/law-competition/). The competition, designed to foster discussion on the ethical and safety implications of large-scale AI capabilities, has attracted many great entries. Our judges read and scored 43 entries and selected the following winners:
 
-*   **🥇 First Place:** Neil Arven F. Tiozon, [Jayson B. Corregidor](https://www.linkedin.com/in/jayson-corregidor/?ref=campaignforaisafety.org) and Anna Czarina C. Lee from [Dr. V. Orestes Romualdez Educational Foundation College of Law, Philippines](https://www.linkedin.com/school/dvoref-college-of-law/?ref=campaignforaisafety.org)
-*   🥈 **Second Place:** [Ketan Aggarwal](https://www.linkedin.com/in/ketan-aggarwal-7303351972/?ref=campaignforaisafety.org) from Dr. Ram Manohar Lohiya National Law University, Lucknow, India
-*   🥉 **Third Place:** [Kanishk Kumar Singh](https://www.linkedin.com/in/kanishk-kumar-singh-a5a998223/?ref=campaignforaisafety.org) from Lloyd Law Collage (affiliated with Chaudhari Charan Singh University Meerut), India
+*   **🥇 First Place:** Neil Arven F. Tiozon, [Jayson B. Corregidor](https://www.linkedin.com/in/jayson-corregidor/?ref=campaignforaisafety.org) and Anna Czarina C. Lee from [Dr. V. Orestes Romualdez Educational Foundation College of Law, Philippines](https://www.linkedin.com/school/dvoref-college-of-law/?ref=campaignforaisafety.org). [SEE TEXT](https://github.com/Campaign-for-AI-Safety-archive/.github/raw/refs/heads/main/moratorium-competition/1-winner.%20Neil-Arven-F.-Tiozon_Jayson-B.-Corregidor_Anna-Czarina-C.-Lee_Dr.-V.-Orestes-Romualdez-Educational-Foundation-Inc.docx)
+*   🥈 **Second Place:** [Ketan Aggarwal](https://www.linkedin.com/in/ketan-aggarwal-7303351972/?ref=campaignforaisafety.org) from Dr. Ram Manohar Lohiya National Law University, Lucknow, India. [SEE TEXT](https://github.com/Campaign-for-AI-Safety-archive/.github/raw/refs/heads/main/moratorium-competition/2-second%20place.%20Ketan-Aggarwal_Dr.-Ram-Manohar-Lohiya-National-Law-University-Lucknow-India.docx)
+*   🥉 **Third Place:** [Kanishk Kumar Singh](https://www.linkedin.com/in/kanishk-kumar-singh-a5a998223/?ref=campaignforaisafety.org) from Lloyd Law Collage (affiliated with Chaudhari Charan Singh University Meerut), India. [SEE TEXT](https://github.com/Campaign-for-AI-Safety-archive/.github/raw/refs/heads/main/moratorium-competition/3-third%20place.%20Kanishk-Kumar-Singh_Lloyd-Law-Collage--affiliated-with-Chaudhari-Charan-Singh-University-Meerut-.docx)
 
 Their contributions demonstrate the potential for international cooperation to restrict the development of dangerous AI models.
 
@@ -15,6 +15,10 @@ Their contributions demonstrate the potential for international cooperation to r
 **🏆 The Competition Showcase**
 
 You can see the [submissions on our website](https://github.com/Campaign-for-AI-Safety-archive/.github/tree/main/moratorium-competition#). Copyright on all the submissions has been waived by the competition participants. It means they can be used as practical treaty drafts.
+
+Copyright on all the submissions above has been waived by the competition participants. The Campaign for AI Safety also does not claim copyright on the texts above. It means they can be used as practical treaty drafts.
+
+A heartfelt thank you to all participants, judges, and supporters who made this competition a resounding success. Your contributions have enriched the discussion around AI ethics and safety.
 
 * * *
 
