@@ -9,7 +9,7 @@ The Campaign for AI Safety is emphasises the existential risk from machine intel
 4.  [Gross misuse](#gross-misuse)
 5.  [Rogue AI](#rogue-ai)
 
-![Framework of major AI harms](Stuff-for-campaing-website--16-[2].png)
+![Framework of major AI harms](framework-of-harms.png)
 
 The last three categories of major risk can lead to end of human civilisation (x-risk). The first two categories of major risk are slightly less severe.
 
